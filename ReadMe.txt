@@ -1,4 +1,10 @@
+Contributers :
+
+Ahmed Hany abdelaziz , email : "ahmedhany.abdelaziz1@gmail.com"	github: "ahmedhany13"
+moustafa mahmoud , github : "mostafamhmod"
+
 ========================================================================
+
     CONSOLE APPLICATION : OpenGL3DTemplate Project Overview
 ========================================================================
 
@@ -38,3 +44,5 @@ AppWizard uses "TODO:" comments to indicate parts of the source code you
 should add to or customize.
 
 /////////////////////////////////////////////////////////////////////////////
+
+
